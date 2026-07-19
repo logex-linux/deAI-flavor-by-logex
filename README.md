@@ -4,3 +4,5 @@
 仅支持中文写作，需要预先为AI提供完整的文章。
 
 如果只需要skill本体，直接下载md文件，如果需要完整的skill含yaml，使用zip文件。
+
+如遇无法控制的AI味，请email我：log_ex@qq.com
